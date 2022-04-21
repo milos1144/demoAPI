@@ -1,7 +1,18 @@
 {
-  "user": {
+  "users": [
+     {
     "id": 1,
     "firstName": "Milos",
     "lastName": "Savic"
+  },
+     {
+    "id": 2,
+    "firstName": "Ivan",
+    "lastName": "Kovacevic"
+  },
+     {
+    "id": 3,
+    "firstName": "Branko",
+    "lastName": "Gavric"
   }
 }
