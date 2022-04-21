@@ -3,17 +3,24 @@
       {
         "id": 1,
         "firstName": "Milos",
-        "lastName": "Savic"
+        "lastName": "Savic",
+        "email": "milos.bn@hotmail.com",
+        "password": "asdasdasd1"
       },
      {
       "id": 2,
       "firstName": "Ivan",
-      "lastName": "Kovacevic"
+      "lastName": "Kovacevic",
+      "email": "mgdaseznan@hotmail.com",
+      "password": "konohajesrpskoselo"
+       
     },
     {
       "id": 3,
       "firstName": "Branko",
-      "lastName": "Gavric"
+      "lastName": "Gavric",
+      "email": "baneqwer@hotmail.com",
+      "password": "instantkafa"
     }
    ]
 }
